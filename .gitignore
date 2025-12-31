@@ -1,4 +1,8 @@
 ### AL ###
+node_modules/
+.env
+*.env
+.env.*
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
 .vscode/
